@@ -6,13 +6,13 @@ A project about my user center based React Native framework!
 
 <div style="font-family: Consolas, &quot;Courier New&quot;, monospace; white-space: pre; color: rgb(0, 0, 0); font-size: 14px; font-weight: normal;">
 <img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/main.jpg" width='340' height='590'/>
-
+________
 <img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/productList.jpg" width='340' height='590'/>
-
+________
 <img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/detail.png" width='340' height='590'/>
-
+________
 <img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/2_login.jpg" width='340' height='590'/>
-
+________
 <img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/1_login.jpg" width='340' height='590'/>
 </div>
 </div><!--EndFragment-->
