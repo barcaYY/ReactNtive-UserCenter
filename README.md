@@ -5,7 +5,7 @@ A project about my user center based React Native framework!
 </div><div style="font-family: Consolas, &quot;Courier New&quot;, monospace; white-space: pre; color: rgb(0, 0, 0); font-size: 14px; font-weight: normal;"><span style="color: rgb(163, 21, 21);"><br /></span></div><span style="font-family: Consolas, &quot;Courier New&quot;, monospace; white-space: pre; color: rgb(0, 0, 0); font-size: 18px; font-weight: normal;"><b>页面图示：</b></span>
 
 <div style="font-family: Consolas, &quot;Courier New&quot;, monospace; white-space: pre; color: rgb(0, 0, 0); font-size: 14px; font-weight: normal;">
-  <img src="https://mail.163.com/js6/s?func=mbox:getMessageData&sid=bDxEXJcIYcYOTgpckcIIIyLpOgaAzHav&mid=77:1tbiTRLtu1c7LOBDqgABsB&part=5" orgwidth="540" orgheight="960" data-image="1" style="width: 360px; height: 640px; border: none;" />
+  <img src="https://mail.163.com/js6/s?func=mbox:getMessageData&sid=bDxEXJcIYcYOTgpckcIIIyLpOgaAzHav&mid=77:1tbiTRLtu1c7LOBDqgABsB&part=5" style="width: 360px; height: 640px; border: none;" />
 
 <img src="https://mail.163.com/js6/s?func=mbox:getMessageData&sid=bDxEXJcIYcYOTgpckcIIIyLpOgaAzHav&mid=77:1tbiTRLtu1c7LOBDqgABsB&part=3" orgwidth="1080" orgheight="1920" data-image="1" style="width: 360px; height: 640px" />
 
