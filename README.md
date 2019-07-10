@@ -13,6 +13,6 @@ A project about my user center based React Native framework!
 
 <img src="https://mail.163.com/js6/s?func=mbox:getMessageData&sid=bDxEXJcIYcYOTgpckcIIIyLpOgaAzHav&mid=77:1tbiTRLtu1c7LOBDqgABsB&part=6" orgwidth="1080" orgheight="1920" data-image="1" style="width: 360px; height: 640px" />
 
-<img src="https://github.com/app/assets/img/1_login.jpg" orgwidth="540" orgheight="960" data-image="1" style="width: 360px; height: 640px; border: none;" />
+<img src="https://github.com/barcaYY/ReactNtive-UserCenter/blob/master/app/assets/img/1_login.jpg" orgwidth="540" orgheight="960" data-image="1" style="width: 360px; height: 640px; border: none;" />
 </div>
 </div><!--EndFragment-->
